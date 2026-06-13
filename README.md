@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d4f3c,50:1a7f5e,100:25a97a&height=200&section=header&text=Hi%20there!%20I%20am%20Malaika%20Sajid&fontSize=38&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20Full-Stack%20Developer%20%7C%20AI%20%26%20ML%20Learner&descSize=16&descColor=d4f5e9&descAlignY=55" width="100%"/>
+# Hi there! I am Malaika Sajid 👋
+
+### 🎓 Software Engineering Student &nbsp;|&nbsp; 💻 Full-Stack Developer &nbsp;|&nbsp; 🤖 AI & ML Learner
 
 <br/>
 
@@ -125,7 +127,7 @@ Hi, I'm **Malaika Sajid** — a motivated **Software Engineering student** with 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=malaikasajid05-alt&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=malaikasajid05-alt&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=4" width="100%"/>
 
 </div>
 
@@ -154,8 +156,6 @@ Hi, I'm **Malaika Sajid** — a motivated **Software Engineering student** with 
 <div align="center">
 
 [![](https://visitcount.itsvg.in/api?id=malaikasajid05-alt&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:25a97a,50:1a7f5e,100:0d4f3c&height=120&section=footer" width="100%"/>
 
 </div>
 
