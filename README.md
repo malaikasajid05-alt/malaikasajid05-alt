@@ -1,8 +1,8 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Hi%20there!%20I%20am%20Malaika%20Sajid&fontSize=40&fontColor=fff&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20Full-Stack%20Developer%20%7C%20AI%20%26%20ML%20Learner&descSize=16&descColor=fff&descAlignY=55" width="100%"/>
-<br/>
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d4f3c,50:1a7f5e,100:25a97a&height=200&section=header&text=Hi%20there!%20I%20am%20Malaika%20Sajid&fontSize=38&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20Full-Stack%20Developer%20%7C%20AI%20%26%20ML%20Learner&descSize=16&descColor=d4f5e9&descAlignY=55" width="100%"/>
+
+<br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1DB97E&center=true&vCenter=true&width=700&lines=Passionate+Software+Engineer+%F0%9F%9A%80;Full-Stack+Developer+(Java+%2B+React);AI+%26+ML+Enthusiast+%F0%9F%A4%96;Exploring+New+Tools+%26+Technologies;Building+Complete+Systems+End-to-End+%F0%9F%94%A5)](https://git.io/typing-svg)
 
@@ -125,7 +125,7 @@ Hi, I'm **Malaika Sajid** — a motivated **Software Engineering student** with 
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=malaikasajid05-alt&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<img src="https://github-profile-trophy.vercel.app/?username=malaikasajid05-alt&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=7" width="100%"/>
 
 </div>
 
@@ -155,7 +155,7 @@ Hi, I'm **Malaika Sajid** — a motivated **Software Engineering student** with 
 
 [![](https://visitcount.itsvg.in/api?id=malaikasajid05-alt&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:25a97a,50:1a7f5e,100:0d4f3c&height=120&section=footer" width="100%"/>
 
 </div>
 
