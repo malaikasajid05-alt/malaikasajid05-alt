@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a7f5e,100:0d4f3c&height=230&section=header&text=Hi%20there!%20I%20am%20Malaika%20Sajid%20👋&fontSize=38&fontColor=ffffff&fontAlignY=33&desc=Software%20Engineering%20Student%20%7C%20Full-Stack%20Developer%20%7C%20AI%20%26%20ML%20Learner%20🤖&descAlignY=52&descSize=16&descColor=a8d5c2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Hi%20there!%20I%20am%20Malaika%20Sajid&fontSize=40&fontColor=fff&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20Full-Stack%20Developer%20%7C%20AI%20%26%20ML%20Learner&descSize=16&descColor=fff&descAlignY=55" width="100%"/>
 
 <br/>
 
@@ -155,7 +155,7 @@ Hi, I'm **Malaika Sajid** — a motivated **Software Engineering student** with 
 
 [![](https://visitcount.itsvg.in/api?id=malaikasajid05-alt&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d4f3c,100:1a7f5e&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" width="100%"/>
 
 </div>
 
