@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1DB97E&center=true&vCenter=true&width=600&lines=Passionate+Software+Engineer+%F0%9F%9A%80;Full-Stack+Developer+(Java+%2B+React);Exploring+New+Tools+%26+Technologies;Building+Complete+Systems+End-to-End+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1DB97E&center=true&vCenter=true&width=700&lines=Passionate+Software+Engineer+%F0%9F%9A%80;Full-Stack+Developer+(Java+%2B+React);AI+%26+ML+Enthusiast+%F0%9F%A4%96;Exploring+New+Tools+%26+Technologies;Building+Complete+Systems+End-to-End+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,25 +12,19 @@
 
 ## 💫 About Me
 
-```java
-public class Malaika {
+Hi, I'm **Malaika Sajid** — a motivated **Software Engineering student** with a passion for building complete systems from frontend to backend. I'm deeply interested in **AI & ML**, love exploring new tools and technologies, and am constantly leveling up my skills one project at a time. 🚀
 
-    String name        = "Malaika Sajid";
-    String role        = "Software Engineering Student";
-    String[] currentWork = {
-        "Building Java and Python projects",
-        "Improving my GitHub portfolio",
-        "Exploring UI/UX design for web apps"
-    };
-    String[] learning  = {
-        "Advanced React patterns",
-        "Backend development & APIs",
-        "Advanced Data Structures",
-        "Full Stack Development"
-    };
-    String funFact     = "I love building complete systems from frontend to backend 🚀";
-}
-```
+<br/>
+
+| | |
+|---|---|
+| 🔭 **Currently Working On** | Java & Python projects · Growing my GitHub portfolio · Exploring UI/UX design for web apps |
+| 🌱 **Currently Learning** | Advanced React patterns · Backend development & APIs · Advanced Data Structures · Full Stack Development |
+| 🤖 **Passionate About** | AI & ML integration · Built a Study Bot using Gemini API & OpenAI API (Google Seekho Hackathon) · AI-powered PR validation (AIPR) · Clean architecture |
+| 👯 **Looking to Collaborate On** | Web development (Frontend + Backend) · Open source beginner-friendly projects |
+| 🤝 **Looking for Help With** | Java projects · Python · System design & scalable applications |
+| 💬 **Ask Me About** | Java (OOP, GUI) · React · Databases (MongoDB & SQL) · Cybersecurity · Full-stack development |
+| ⚡ **Fun Fact** | I love building complete systems from frontend to backend 🚀 |
 
 ---
 
@@ -96,7 +90,10 @@ public class Malaika {
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-### 📊 Data & AI
+### 🤖 AI & ML
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google AI Studio](https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
