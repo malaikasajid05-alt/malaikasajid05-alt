@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d4f3c,50:1a7f5e,100:25a97a&height=200&section=header&text=Hi%20there!%20I%20am%20Malaika%20Sajid&fontSize=38&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20Full-Stack%20Developer%20%7C%20AI%20%26%20ML%20Learner&descSize=16&descColor=d4f5e9&descAlignY=55" width="100%"/>
 
-### 🎓 Software Engineering Student &nbsp;|&nbsp; 💻 Full-Stack Developer &nbsp;|&nbsp; 🤖 AI & ML Learner
+### 🎓 Software Engineering Student &nbsp;|&nbsp; 💻 Full-Stack Developer &nbsp;|&nbsp; 🤖 AI &amp; ML Learner
 
 <br/>
 
@@ -14,18 +14,18 @@
 
 ## 💫 About Me
 
-Hi, I'm **Malaika Sajid** — a motivated **Software Engineering student** with a passion for building complete systems from frontend to backend. I'm deeply interested in **AI & ML**, love exploring new tools and technologies, and am constantly leveling up my skills one project at a time. 🚀
+Hi, I'm **Malaika Sajid** — a motivated **Software Engineering student** with a passion for building complete systems from frontend to backend. I'm deeply interested in **AI &amp; ML**, love exploring new tools and technologies, and am constantly leveling up my skills one project at a time. 🚀
 
 <br/>
 
 | | |
 |---|---|
-| 🔭 **Currently Working On** | Java & Python projects · Growing my GitHub portfolio · Exploring UI/UX design for web apps |
-| 🌱 **Currently Learning** | Advanced React patterns · Backend development & APIs · Advanced Data Structures · Full Stack Development |
-| 🤖 **Passionate About** | AI & ML integration · Built a Study Bot using Gemini API & OpenAI API (Google Seekho Hackathon) · AI-powered PR validation (AIPR) · Clean architecture |
+| 🔭 **Currently Working On** | Java &amp; Python projects · Growing my GitHub portfolio · Exploring UI/UX design for web apps |
+| 🌱 **Currently Learning** | Advanced React patterns · Backend development &amp; APIs · Advanced Data Structures · Full Stack Development |
+| 🤖 **Passionate About** | AI &amp; ML integration · Built a Study Bot using Gemini API &amp; OpenAI API (Google Seekho Hackathon) · AI-powered PR validation (AIPR) · Clean architecture |
 | 👯 **Looking to Collaborate On** | Web development (Frontend + Backend) · Open source beginner-friendly projects |
-| 🤝 **Looking for Help With** | Java projects · Python · System design & scalable applications |
-| 💬 **Ask Me About** | Java (OOP, GUI) · React · Databases (MongoDB & SQL) · Cybersecurity · Full-stack development |
+| 🤝 **Looking for Help With** | Java projects · Python · System design &amp; scalable applications |
+| 💬 **Ask Me About** | Java (OOP, GUI) · React · Databases (MongoDB &amp; SQL) · Cybersecurity · Full-stack development |
 | ⚡ **Fun Fact** | I love building complete systems from frontend to backend 🚀 |
 
 ---
@@ -58,7 +58,7 @@ Hi, I'm **Malaika Sajid** — a motivated **Software Engineering student** with 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### ⚙️ Backend & Frameworks
+### ⚙️ Backend &amp; Frameworks
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
@@ -69,13 +69,13 @@ Hi, I'm **Malaika Sajid** — a motivated **Software Engineering student** with 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-### ☁️ Deployment & DevOps
+### ☁️ Deployment &amp; DevOps
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-### 🎨 Design & Tools
+### 🎨 Design &amp; Tools
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
@@ -90,7 +90,7 @@ Hi, I'm **Malaika Sajid** — a motivated **Software Engineering student** with 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-### 🤖 AI & ML
+### 🤖 AI &amp; ML
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Google AI Studio](https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
