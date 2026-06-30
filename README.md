@@ -125,7 +125,7 @@ Hi, I'm **Malaika Sajid** — a motivated **Software Engineering student** with 
 
 <div align="center">
 
-<img src="https://github-profile-trophy-38juc2qua-malaikasajid05-alts-projects.vercel.app/?username=malaikasajid05-alt&theme=radical&no-frame=false&no-bg=true&margin-w=15&margin-h=30&column=4&rank=-%3F" width="100%"/>
+<img src="https://github-profile-trophy-rust-phi.vercel.app/?username=malaikasajid05-alt&theme=radical&no-frame=false&no-bg=true&margin-w=15&margin-h=30&column=4&rank=-%3F" width="100%"/>
 
 </div>
 
