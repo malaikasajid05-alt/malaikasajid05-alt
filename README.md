@@ -14,7 +14,11 @@
 
 ## 💫 About Me
 
-Hi, I'm **Malaika Sajid** — a motivated **Software Engineering student** with a passion for building complete systems from frontend to backend. I'm deeply interested in **AI &amp; ML**, love exploring new tools and technologies, and am constantly leveling up my skills one project at a time. 🚀
+> *"Code is the closest thing we have to magic — I just like casting spells from frontend to backend."* ✨
+
+I'm **Malaika Sajid**, a **Software Engineering student** who turns ideas into full, working systems — not just pretty screens or clever backends, but both, wired together properly. I get genuinely excited about **AI &amp; ML**, I'm the person who reads the changelog for fun, and I'm always one tutorial deep into something new. 🚀
+
+When I'm not shipping code, I'm probably breaking something on purpose just to understand how it works.
 
 <br/>
 
