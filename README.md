@@ -22,15 +22,36 @@ When I'm not shipping code, I'm probably breaking something on purpose just to u
 
 <div align="center">
 
-| | |
-|:---|:---|
-| 🔭&nbsp;&nbsp;**Currently Building** | Java &amp; Python projects · A growing GitHub portfolio · UI/UX-driven web apps |
-| 🌱&nbsp;&nbsp;**Currently Leveling Up** | Advanced React patterns · Backend APIs · Data Structures · Full-Stack Dev |
-| 🤖&nbsp;&nbsp;**Obsessed With** | AI &amp; ML integration · Built a Study Bot with Gemini + OpenAI (Google Seekho Hackathon) · AI-powered PR validation (AIPR) |
-| 👯&nbsp;&nbsp;**Down to Collaborate On** | Full-stack web projects · Beginner-friendly open source |
-| 🤝&nbsp;&nbsp;**Could Use a Hand With** | Java · Python · Scalable system design |
-| 💬&nbsp;&nbsp;**Ask Me Anything About** | Java (OOP, GUI) · React · MongoDB &amp; SQL · Cybersecurity · Full-stack dev |
-| ⚡&nbsp;&nbsp;**Fun Fact** | I'd rather build one complete system end-to-end than ten half-finished ones |
+<table>
+<tr>
+<td><img src="https://img.shields.io/badge/🔭_Currently_Building-1a7f5e?style=for-the-badge&logoColor=white" /></td>
+<td>Java &amp; Python projects · A growing GitHub portfolio · UI/UX-driven web apps</td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/🌱_Leveling_Up-25a97a?style=for-the-badge&logoColor=white" /></td>
+<td>Advanced React patterns · Backend APIs · Data Structures · Full-Stack Dev</td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/🤖_Obsessed_With-0d4f3c?style=for-the-badge&logoColor=white" /></td>
+<td>AI &amp; ML integration · Built a Study Bot with Gemini + OpenAI (Google Seekho Hackathon) · AI-powered PR validation (AIPR)</td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/👯_Collaborate_On-1a7f5e?style=for-the-badge&logoColor=white" /></td>
+<td>Full-stack web projects · Beginner-friendly open source</td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/🤝_Need_a_Hand_With-25a97a?style=for-the-badge&logoColor=white" /></td>
+<td>Java · Python · Scalable system design</td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/💬_Ask_Me_About-0d4f3c?style=for-the-badge&logoColor=white" /></td>
+<td>Java (OOP, GUI) · React · MongoDB &amp; SQL · Cybersecurity · Full-stack dev</td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/⚡_Fun_Fact-1a7f5e?style=for-the-badge&logoColor=white" /></td>
+<td>I'd rather build one complete system end-to-end than ten half-finished ones</td>
+</tr>
+</table>
 
 </div>
 
