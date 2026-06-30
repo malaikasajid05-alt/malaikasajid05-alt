@@ -111,7 +111,7 @@ Hi, I'm **Malaika Sajid** — a motivated **Software Engineering student** with 
 <div align="center">
 
 <img src="https://github-readme-stats-fast.vercel.app/api?username=malaikasajid05-alt&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="48%"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=malaikasajid05-alt&theme=dark&hide_border=false" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=malaikasajid05-alt&theme=dark&hide_border=false" width="48%"/>
 
 <br/><br/>
 
@@ -166,8 +166,6 @@ Hi, I'm **Malaika Sajid** — a motivated **Software Engineering student** with 
 ---
 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=malaikasajid05-alt&color=1a7f5e&style=flat)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:25a97a,50:1a7f5e,100:0d4f3c&height=120&section=footer" width="100%"/>
 
