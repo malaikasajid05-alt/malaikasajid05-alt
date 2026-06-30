@@ -125,7 +125,7 @@ Hi, I'm **Malaika Sajid** — a motivated **Software Engineering student** with 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=malaikasajid05-alt&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=4" width="100%"/>
+<img src="https://github-trophies.vercel.app/?username=malaikasajid05-alt&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=4" width="100%"/>
 
 </div>
 
@@ -151,16 +151,6 @@ Hi, I'm **Malaika Sajid** — a motivated **Software Engineering student** with 
 
 ---
 
-## 🔝 Top Contributed Repo
-
-<div align="center">
-
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=malaikasajid05-alt&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -177,7 +167,7 @@ Hi, I'm **Malaika Sajid** — a motivated **Software Engineering student** with 
 
 <div align="center">
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=malaikasajid05-alt&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=malaikasajid05-alt&color=1a7f5e&style=flat)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:25a97a,50:1a7f5e,100:0d4f3c&height=120&section=footer" width="100%"/>
 
