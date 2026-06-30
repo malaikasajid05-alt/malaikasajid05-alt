@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d4f3c,50:1a7f5e,100:25a97a&height=200&section=header&text=Hi%20there!%20I%20am%20Malaika%20Sajid&fontSize=38&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20Full-Stack%20Developer%20%7C%20AI%20%26%20ML%20Learner&descSize=16&descColor=d4f5e9&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d4f3c,50:1a7f5e,100:25a97a&height=200&section=header&text=Hi%20there!%20I%20am%20Malaika%20Sajid&fontSize=38&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20Full-Stack%20Developer%20%7C%20AI%20and%20ML%20Learner&descSize=16&descColor=d4f5e9&descAlignY=55" width="100%"/>
 
 ### 🎓 Software Engineering Student &nbsp;|&nbsp; 💻 Full-Stack Developer &nbsp;|&nbsp; 🤖 AI &amp; ML Learner
 
