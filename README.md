@@ -14,23 +14,25 @@
 
 ## 💫 About Me
 
-> *"Code is the closest thing we have to magic — I just like casting spells from frontend to backend."* ✨
-
 I'm **Malaika Sajid**, a **Software Engineering student** who turns ideas into full, working systems — not just pretty screens or clever backends, but both, wired together properly. I get genuinely excited about **AI &amp; ML**, I'm the person who reads the changelog for fun, and I'm always one tutorial deep into something new. 🚀
 
 When I'm not shipping code, I'm probably breaking something on purpose just to understand how it works.
 
 <br/>
 
+<div align="center">
+
 | | |
-|---|---|
-| 🔭 **Currently Working On** | Java &amp; Python projects · Growing my GitHub portfolio · Exploring UI/UX design for web apps |
-| 🌱 **Currently Learning** | Advanced React patterns · Backend development &amp; APIs · Advanced Data Structures · Full Stack Development |
-| 🤖 **Passionate About** | AI &amp; ML integration · Built a Study Bot using Gemini API &amp; OpenAI API (Google Seekho Hackathon) · AI-powered PR validation (AIPR) · Clean architecture |
-| 👯 **Looking to Collaborate On** | Web development (Frontend + Backend) · Open source beginner-friendly projects |
-| 🤝 **Looking for Help With** | Java projects · Python · System design &amp; scalable applications |
-| 💬 **Ask Me About** | Java (OOP, GUI) · React · Databases (MongoDB &amp; SQL) · Cybersecurity · Full-stack development |
-| ⚡ **Fun Fact** | I love building complete systems from frontend to backend 🚀 |
+|:---|:---|
+| 🔭&nbsp;&nbsp;**Currently Building** | Java &amp; Python projects · A growing GitHub portfolio · UI/UX-driven web apps |
+| 🌱&nbsp;&nbsp;**Currently Leveling Up** | Advanced React patterns · Backend APIs · Data Structures · Full-Stack Dev |
+| 🤖&nbsp;&nbsp;**Obsessed With** | AI &amp; ML integration · Built a Study Bot with Gemini + OpenAI (Google Seekho Hackathon) · AI-powered PR validation (AIPR) |
+| 👯&nbsp;&nbsp;**Down to Collaborate On** | Full-stack web projects · Beginner-friendly open source |
+| 🤝&nbsp;&nbsp;**Could Use a Hand With** | Java · Python · Scalable system design |
+| 💬&nbsp;&nbsp;**Ask Me Anything About** | Java (OOP, GUI) · React · MongoDB &amp; SQL · Cybersecurity · Full-stack dev |
+| ⚡&nbsp;&nbsp;**Fun Fact** | I'd rather build one complete system end-to-end than ten half-finished ones |
+
+</div>
 
 ---
 
